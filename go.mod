@@ -39,8 +39,8 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	go.opencensus.io v0.22.2
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381
-	golang.org/x/tools v0.0.0-20200616133436-c1934b75d054
+	golang.org/x/net v0.7.0
+	golang.org/x/tools v0.1.12
 	google.golang.org/grpc v1.31.1
 	google.golang.org/protobuf v1.24.0
 	helm.sh/helm/v3 v3.4.1
